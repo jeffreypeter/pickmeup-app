@@ -1,0 +1,1 @@
+export let myLocationIcon = 'http://maps.google.com/mapfiles/ms/micons/man.png';
